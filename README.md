@@ -1,60 +1,74 @@
-Random Color Project
-Welcome to the Random Color Project! This project generates random colors and displays them on the screen. It's a fun way to explore colors and see how they look.
+Random Color
+=====================
 
 Table of Contents
-Introduction
+-----------------
 
-Installation
-
-Usage
-
-Features
-
-Contributing
-
-License
+* [Introduction](#introduction)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Features](#features)
+* [Contributing](#contributing)
+* [License](#license)
 
 Introduction
+------------
+
 The Random Color Project is a simple application that generates and displays random colors. It can be used for various purposes, such as design inspiration, color learning, or just for fun. The project is built using HTML, CSS, and JavaScript.
 
 Installation
+------------
+
 To get started with the Random Color Project, follow these steps:
 
-Clone the repository:
+### Clone the repository
 
-bash
-git clone https://github.com/your-username/random-color-project.git
-Navigate to the project directory:
+```bash
+git clone https://github.com/sheikhwasimuddin/random-color.git
+```
 
-bash
-cd random-color-project
-Open the index.html file in your web browser.
+### Navigate to the project directory
+
+```bash
+cd random-color
+```
+
+### Open the index.html file in your web browser
 
 Usage
+-----
+
 Once you have the project set up, you can start generating random colors by clicking the "Generate" button. Each click will display a new random color along with its HEX code.
 
 Features
-Generate random colors with a click of a button.
+--------
 
-Display the HEX code of the generated color.
-
-Simple and user-friendly interface.
+* Generate random colors with a click of a button
+* Display the HEX code of the generated color
+* Simple and user-friendly interface
 
 Contributing
+------------
+
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
-Fork the repository.
+### Fork the repository
 
-Create a new branch:
+### Create a new branch
 
-bash
+```bash
 git checkout -b feature-branch
-Make your changes and commit them:
+```
 
-bash
+### Make your changes and commit them
+
+```bash
 git commit -m "Add new feature"
-Push to the branch:
+```
 
-bash
+### Push to the branch
+
+```bash
 git push origin feature-branch
-Open a pull request.
+```
+

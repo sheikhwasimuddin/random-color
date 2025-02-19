@@ -9,7 +9,6 @@ Table of Contents
 * [Usage](#usage)
 * [Features](#features)
 * [Contributing](#contributing)
-* [License](#license)
 
 Introduction
 ------------
